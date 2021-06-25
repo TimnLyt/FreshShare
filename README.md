@@ -1,11 +1,11 @@
 # FreshShare - Android Application
 Creating an Android application that provides local food buisnesses with an opportunity to save money on food and help people in need.
 
-Project created using:
+## Project created using:
 * Java 
 * CircleCi
 
-Group members:
+## Group members:
 <br/>
 Maria Fernandez
 <br/>
@@ -17,6 +17,7 @@ Timothy Lytvynchuk
 <br/>
 Pedro Torres
 
+## Tests:
 [![<CircleCI>](https://circleci.com/gh/Theillusionofthegift/FreshShare.svg?style=svg)](https://app.circleci.com/pipelines/github/Theillusionofthegift/FreshShare)
 
 [![codecov](https://codecov.io/gh/Theillusionofthegift/FreshShare/branch/main/graph/badge.svg?token=RTDDNINPVS)](https://codecov.io/gh/Theillusionofthegift/FreshShare)
